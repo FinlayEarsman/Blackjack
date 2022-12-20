@@ -12,6 +12,7 @@ The way my implementation of the games works is as follows:
 - If the player wins, their win counter is incremented.
 - The player is then asked if they would like to play again. If so, the game resets. Otherwise, it exits the game.
 
+To play the game just use the command `python blackjack.py`.
 
 ### Assumption made
 - The player cannot see any of the dealers cards before the game ends.
