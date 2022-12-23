@@ -1,5 +1,5 @@
 ## Blackjack
-### by Finlay Earsman
+#### by Finlay Earsman
 
 I have created an object-orientated Python implementation of the card game "blackjack" for the BBC Software Engineering Graduate Scheme application process.
 
