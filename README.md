@@ -12,9 +12,9 @@ The way my implementation of the games works is as follows:
 - If the player wins, their win counter is incremented.
 - The player is then asked if they would like to play again. If so, the game resets. Otherwise, it exits the game.
 
-To play the game just use the command `python blackjack.py`.
+To play the game use the command `python blackjack.py`.
 
-### Assumption made
+### Assumptions made:
 - The player cannot see any of the dealers cards before the game ends.
 - There will only be two players, the player (user) and the dealer (computer).
 - There are no benefits for getting something such as a "five card trick".
